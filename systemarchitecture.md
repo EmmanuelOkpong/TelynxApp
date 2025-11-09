@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # System Architecture – FaceMentor
+=======
+# System Architecture –  Telynx/Facementor
+>>>>>>> c26d74070c779b02f06243973f4266fb0776f506
 
 ---
 
@@ -76,8 +80,14 @@ This architecture supports:
 - Low latency video sessions (via WebRTC)
 - Secure authentication & payment integration
 - Easy future expansion into mobile app (React Native)
+<<<<<<< HEAD
 
 ---
 
 ## 📊 Diagram
+=======
+End
+
+ 
+>>>>>>> c26d74070c779b02f06243973f4266fb0776f506
  
