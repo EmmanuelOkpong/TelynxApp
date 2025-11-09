@@ -1,4 +1,4 @@
-# TelynxApp
+# TelynxApp Facementor
 For Telynx App
 # TelynxApp
 For Telynx App
@@ -49,7 +49,7 @@ Product Manager – Emmanuel Okpong
 Frontend Developer – Eric Bassey 
 Backend Developer – Paul hart
 UI/UX Designer – Owai Owai 
-QA Tester – Antonia
+QA Tester – Antonia 
 
  
  
